@@ -1,0 +1,5 @@
+---
+applications:
+ - name: myflask9
+   random-route: true
+   memory: 128M
